@@ -9,13 +9,13 @@ Feature Selection
 Correlation Matrix  
 
 # Dependencies 
-import pandas as pd
-import numpy as np
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error as mse
-import matplotlib.pyplot as plt
-import plotly.plotly as py
-import seaborn as sns
+import pandas as pd  
+import numpy as np  
+from sklearn.linear_model import LinearRegression  
+from sklearn.metrics import mean_squared_error as mse  
+import matplotlib.pyplot as plt  
+import plotly.plotly as py  
+import seaborn as sns  
 
 
 ![Ames_Ioha](https://masters-sms.agron.iastate.edu/Content/Images/iowa_map.gif)  
